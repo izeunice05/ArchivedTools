@@ -1,6 +1,6 @@
 # Genetics Study Pipelines
 
-You can find different pipelines for various past and ongoing projects in the lab. These archived pipeilnes include,
+You can find different tools and pipelines for various past and ongoing projects in the lab. These archived pipeilnes include,
 
 1. Admixture Mapping
 2. Genotype Imputation
