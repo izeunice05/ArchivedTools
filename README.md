@@ -10,6 +10,6 @@ You can find different tools and pipelines for various past and ongoing projects
 
 For each pipeline, you should be able to find brief description on each method and example codes/scripts that you can run and reproduce the results. These pipelines are written in different programming languages including bash, perl, python, plink and R.
 
-Please visit this wiki (https://github.com/izeunice05/test/wiki) page to fine the above pipeilnes.
+Please visit this wiki (https://github.com/izeunice05/ArchivedTools/wiki) page to fine the above pipeilnes.
 
 
